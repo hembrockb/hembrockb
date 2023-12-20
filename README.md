@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### I'm Ben, I'm a student and I am doing this for an assignment. I am taking an Intro to Computer Science class and we are learning about coding.
+
 <!--
 **hembrockb/hembrockb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
